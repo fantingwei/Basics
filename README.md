@@ -1,6 +1,7 @@
 # Data Construction and Algorithm
 
-!
+你就是学不会，再刷一遍！！！
+494目标和 = "https://leetcode-cn.com/problems/target-sum/"
 
 ## Repositories
 
